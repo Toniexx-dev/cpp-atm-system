@@ -37,6 +37,6 @@ Beginner project — part of my C++ learning journey 🙂.
 
 ## How to Run
 
-1. Download "atm.cpp" 
+1. Download "main.cpp" 
 2. Open it in a C++ compiler/IDE.
 3. Compile and run the program.
